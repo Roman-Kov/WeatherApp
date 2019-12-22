@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cityList">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Краснодар</item>
+        <item>Мурманск</item>
+    </string-array>
+
+    <string-array name="actualTemperatures">
+        <item>-2</item><!-- Москва -->
+        <item>-5</item><!-- СПб -->
+        <item>15</item><!-- Краснодар -->
+        <item>-10</item><!-- Мурманск -->
+    </string-array>
+
+    <integer-array name="cityEmblems">
+        <item>@drawable/moscow</item>
+        <item>@drawable/spb</item>
+        <item>@drawable/krasnodar</item>
+        <item>@drawable/murmansk</item>
+    </integer-array>
+
+    <string-array name="yandexWeatherUrls">
+        <item>https://yandex.ru/pogoda/moscow?from=serp_title</item>
+        <item>https://yandex.ru/pogoda/saint-petersburg?from=serp_title</item>
+        <item>https://yandex.ru/pogoda/krasnodar?from=serp_title</item>
+        <item>https://yandex.ru/pogoda/murmansk?from=serp_title</item>
+    </string-array>
+
+    <string-array name="wikiUrls">
+        <item>https://ru.wikipedia.org/wiki/Москва</item>
+        <item>https://ru.wikipedia.org/wiki/Санкт-Петербург</item>
+        <item>https://ru.wikipedia.org/wiki/Краснодар</item>
+        <item>https://ru.wikipedia.org/wiki/Мурманск</item>
+    </string-array>
+
+    <integer-array name="weatherHistory">
+        <item>@array/moscowWeatherHistory</item>
+        <item>@array/spbWeatherHistory</item>
+        <item>@array/krasnodarWeatherHistory</item>
+        <item>@array/murmanskWeatherHistory</item>
+    </integer-array>
+
+    <string-array name="moscowWeatherHistory">
+        <item>-1</item>
+        <item>-1</item>
+        <item>-1</item>
+        <item>-4</item>
+        <item>-4</item>
+        <item>-2</item>
+        <item>-2</item>
+    </string-array>
+
+    <string-array name="spbWeatherHistory">
+        <item>-4</item>
+        <item>-3</item>
+        <item>-3</item>
+        <item>-4</item>
+        <item>-6</item>
+        <item>-2</item>
+        <item>-2</item>
+    </string-array>
+
+    <string-array name="krasnodarWeatherHistory">
+        <item>15</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>17</item>
+        <item>20</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="murmanskWeatherHistory">
+        <item>-15</item>
+        <item>-12</item>
+        <item>-13</item>
+        <item>-20</item>
+        <item>-14</item>
+        <item>-12</item>
+        <item>-2</item>
+    </string-array>
+
+</resources>

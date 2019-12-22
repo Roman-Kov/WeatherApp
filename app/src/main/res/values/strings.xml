@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="week_weather_history">Погода за неделю</string>
+    <string name="show_yandex_weather">Показать погоду на Яндексе</string>
+    <string name="show_yandex_map">Показать место на Яндекс карте</string>
+    <string name="show_wiki">Показать статью на Wiki</string>
+    <string name="monday">ПН:</string>
+    <string name="tuesday">ВТ:</string>
+    <string name="wednesday">СР:</string>
+    <string name="thursday">ЧТ:</string>
+    <string name="friday">ПТ:</string>
+    <string name="saturday">СБ:</string>
+    <string name="sunday">ВС:</string>
+    <string name="learn_more">Узнать больше ...</string>
+    <string name="are_you_sure">Узнать больше о городе </string>
+    <string name="weather">Погода:</string>
+</resources>
